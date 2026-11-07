@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+google-api-python-client
+google-genai
+youtube-transcript-api
+pydantic
+requests
+pytest
+sentence-transformers
+faiss-cpu
